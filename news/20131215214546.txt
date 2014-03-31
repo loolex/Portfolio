@@ -1,0 +1,3 @@
+PPE - application festival
+2013-12-15 9:45:46 PM
+<p>Dans le cadre des PPE nous avons du modifier un code que l'on nous a donn&eacute; pour qu'il soit coh&eacute;rent avec la mission que l'on devait faire</p><p>Le code est disponible sur Github &agrave; cette adresse :&nbsp;<a href="https://github.com/loolex/festival">https://github.com/loolex/festival</a>&nbsp;</p><p>L'application apr&egrave;s la modification (en utilisant notamment Bootstrap :</p><p><img src="../images/applifestival.png" alt="appli festival" width="590" height="328" /></p><p>L'application avant la modification:&nbsp;</p><p><img src="../images/applifestival2.png" alt="appli festival" width="590" height="328" />&nbsp;</p>

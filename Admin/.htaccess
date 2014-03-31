@@ -1,0 +1,7 @@
+AuthName "Page d'administration protégée, Entrez votre login et votre password"
+
+AuthType Basic
+
+AuthUserFile "/dns/in/olympe/loolex/Admin/.htpasswd"
+
+Require valid-user

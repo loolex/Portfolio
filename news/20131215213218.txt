@@ -1,0 +1,3 @@
+Calculatrice en Java
+2013-12-15 9:32:18 PM
+<p>Dans le cadre de mes cours nous devions cr&eacute;er une calculatrice en java. Pour cela je me suis aider d'un tutoriel de Open Class Room.<br />le code est disponible sur Github &agrave; cette adresse :<a href="https://github.com/loolex/calculatrice">https://github.com/loolex/calculatrice</a></p><p><span style="white-space: pre" class="Apple-tab-span">	</span><img src="../images/calculatrice.png" alt="calculatrice" width="560" height="328" />&nbsp;</p>

@@ -1,0 +1,3 @@
+Mission PPE
+2013-12-15 8:40:46 PM
+<p>Dans le cadre des PPE nous avons cr&eacute;er en groupe de 3 un site vitrine pour la maison des ligues de lorraine. le code est accessible sur Github &agrave; cette adresse :&nbsp;<a href="https://github.com/loolex/Maison-des-ligues">https://github.com/loolex/Maison-des-ligues</a>&nbsp;</p><p><img src="../images/M2L.png" alt="Site vitrine" width="590" height="328" />&nbsp;</p><p><img src="../images/M2L2.png" alt="site vitrine" width="590" height="328" />&nbsp;</p>

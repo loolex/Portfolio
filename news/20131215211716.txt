@@ -1,0 +1,3 @@
+Application Pokemon en Ruby !
+2013-12-15 9:17:16 PM
+<p>J'ai cr&eacute;er une application en ruby permettant de cr&eacute;er des pokemons, de les supprimer, de cr&eacute;er et des dresseurs et d'affilier un pokemon &agrave; un dresseur.<br />Le code est accessible sur Github &agrave; cette adresse :<a href="https://github.com/loolex/pokemon">https://github.com/loolex/pokemon</a></p><p><img src="../images/pokemon2.png" alt="Appli pokemon" width="590" height="328" /></p><p><img src="../images/pokemon.png" alt="Appli pokemon" width="590" height="328" /></p>

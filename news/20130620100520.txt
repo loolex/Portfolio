@@ -1,0 +1,3 @@
+STAGE - mission 2
+2013-06-20 10:05:20 AM
+<p>Je devais cr&eacute;er une fen&ecirc;tre de confirmation lorsque l'utilisateur souhaitait augmenter le temps de retention du fichier</p><p><img src="../images/confirmessage.png" alt="" width="590" height="328" />&nbsp;</p><p><img src="../images/confirmessagee.png" alt="" width="590" height="328" />&nbsp;</p>
